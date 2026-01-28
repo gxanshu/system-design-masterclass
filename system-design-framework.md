@@ -27,8 +27,8 @@ how much bandwidth your system gonna take.
 ## Step 3: API Design
 design basic API like how many endpoints you gonna need what will be there location, request body and response
 
-### Step 4: High Level Design
+## Step 4: High Level Design
 create a raw diagram on how the design gonna look like
 
-### Step 5: deep dive
+## Step 5: deep dive
 extand your design as per Function and Non-Functional requirements
